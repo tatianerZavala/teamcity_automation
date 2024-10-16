@@ -1,0 +1,4 @@
+api:
+  base_url: "http://localhost:8111"
+  username: "admin"
+  password: "admin"
